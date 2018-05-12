@@ -1,0 +1,98 @@
+/* MENU VERTICAL */
+.voletContainer.container {
+	margin-left : 0;
+	margin-top : 0;
+	padding : 0;
+	height: 100%;
+}
+
+.vertical-menu {
+	width: inherit;
+	height: 100%;
+	position :fixed;
+	background-color: #d9d9d9;
+	border-width : 1px;
+	border-color : #adadad;
+	border-style : none solid none none;
+	font-size : 20px;
+	display : flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.vertical-menu a {
+	text-align : center;
+	color: black;
+	display: block;
+	padding: 12px;
+	text-decoration: none;
+	transition: all 0.3s ease;
+}
+
+.vertical-menu a:hover {
+    background-color: #ccc;
+}
+
+.vertical-menu a.active {
+    background-color: #353d76;
+    color: white;
+}
+
+
+/*EN SAVOIR PLUS*/
+.details {
+	display : none;
+}
+
+.btn_details {
+	text-decoration: none;
+	color : black;
+	font-size: 19px;
+}
+
+.btn_details:hover {
+	text-decoration: none;
+    color : #353d76;
+}
+
+.btn_details:visited, .btn_details:active, .btn_details:focus  {
+	text-decoration: none;
+	color : black;
+}
+
+.details {
+	margin-top: 10px;
+}
+
+
+/*GALERIE PHOTO*/
+.galerie {
+	display : flex;
+	justify-content : space-around;
+	flex-wrap : wrap;
+	align-items : center;
+	margin-bottom : 20px;
+}
+
+.galerie > img {
+	height : 100px;
+	transition : all .3s ease-in;
+}
+
+.galerie > img:hover {
+	transform : scale3d(2, 2, 1);
+}
+
+
+/*AUTRE*/
+.equipeVolet {
+	margin-bottom: 20px;
+}
+
+#textVolet {
+    margin-right :0px;
+}
+
+.footer-container {
+	padding: 0;
+}
