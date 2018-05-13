@@ -96,3 +96,41 @@
 .footer-container {
 	padding: 0;
 }
+
+
+/*ACTEURS - ACTIONS*/
+.acteur, .action {
+	display: flex;
+	justify-content: space-around;
+}
+
+.acteur > div {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	padding: 10px;
+	width: 33%
+}
+
+.img-acteur {
+	border-radius: 50%;
+	height: 200px;
+}
+
+.action > div {
+	width: 25%;
+	display: flex;
+	justify-content: center;
+}
+
+.img-action {
+	height: 150px;
+}
+
+.desc-acteur, .nom-acteur {
+	text-align: center;
+}
+
+.desc-acteur {
+	font-size: 14px;
+}

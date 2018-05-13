@@ -1,10 +1,10 @@
 <?php
 
 function getRoot() {
-	return "/CLAQH/";
+	return "/CLAQH-ENSC/";
 }
 function getHtmlFolder() {
-	return "/CLAQH/HTML/";
+	return "/CLAQH-ENSC/HTML/";
 }
 
 ?>

@@ -23,6 +23,7 @@
 									<li><a href=<?= getHtmlFolder()."historique.php" ?>>Historique</a></li>
 									<li><a href=<?= getHtmlFolder()."enjeux.php" ?>>Enjeux</a></li>
 									<li><a href=<?= getHtmlFolder()."volet_1.php" ?>>Volet</a></li>
+									<li><a href=<?= getHtmlFolder()."projet.php" ?>>Projet Transdisciplinaire</a></li>
 								</ul>
 							</li> 
 							<li role="presentation" class="dropdown itemMenu"><a href="#" class="dropdown-toggle tab" data-toggle="dropdown" id="lacs">Lacs <span class="caret"></span></a>
