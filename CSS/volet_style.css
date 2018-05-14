@@ -134,3 +134,25 @@
 .desc-acteur {
 	font-size: 14px;
 }
+
+
+/*ACTIONS REALISEES*/
+.actionsReal {
+	padding-top: 20px;
+}
+
+#KM-site, #KM-logo, #AC-site, #AC-logo {
+	width : 50px;
+}
+
+#AB-stat {
+	width : 75px;
+}
+
+#AB-site {
+	width : 25px;
+}
+
+#EG-site, #EG-stat, #EG-affiche {
+	width : 33px;
+}

@@ -28,5 +28,7 @@
 			</div>
 
 		</div>
+
+		<?php include 'scriptBootstrap.php'; ?>
 	</body>
 </html>
