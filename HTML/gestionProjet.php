@@ -31,8 +31,8 @@
                             </caption>
                             <thead>
                             	<tr>
-                                    <td>Activité</td>
-                                    <td>Durée</td>
+                                    <td><b>Activité</b></td>
+                                    <td><b>Durée</b></td>
                                 </tr>
                             </thead>
                             <tbody>

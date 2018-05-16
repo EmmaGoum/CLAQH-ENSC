@@ -98,16 +98,16 @@
 }
 
 
-/*ACTEURS - ACTIONS*/
-.acteur, .action {
+/*ACTEURS - ACTIONS - APPORTS*/
+.acteur, .action, .apport {
 	display: flex;
 	justify-content: space-around;
 }
 
-.apport {
+/*.apport {
 	display : flex;
 	justify-content: center;
-}
+}*/
 
 .acteur > div {
 	display: flex;
@@ -126,6 +126,14 @@
 	width: 25%;
 	display: flex;
 	justify-content: center;
+}
+
+.apport > div {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	padding: 10px;
+	width: 25%
 }
 
 .img-action, .img-apport {
