@@ -104,7 +104,7 @@
 						</div>
 
 						<div>
-							<img class="img-acteur" src="../IMG/"/>
+							<img class="img-acteur" src="../IMG/EG.jpg"/>
 							<div class="actionsReal">
 								<img id="EG-site" src="../IMG/action-site"/>
 								<img id="EG-stat" src="../IMG/action-stat"/>

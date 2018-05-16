@@ -46,12 +46,12 @@
 						</div>
 
 						<div>
-							<img class="img-acteur" src="../IMG/"/>
+							<img class="img-acteur" src="../IMG/EG.jpg"/>
 							<p class="nom-acteur">
 								Emma Goumillout
 							</p>
 							<p class="desc-acteur">
-								Prépa BL - Orléans
+								Classe préparatoire BL - Orléans
 							</p>
 						</div>
 

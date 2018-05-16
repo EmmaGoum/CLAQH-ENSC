@@ -22,6 +22,19 @@
 				</div>
 
 				<div class="contenu col-md-10 col-sm-10 col-xs-10">
+
+						<p>
+						Nous tenons à remercier :
+						</p>
+						<ul>
+							<li>Nos tuteurs, pour leur accompagnement tout au long du projet </li>
+							<li>Régine Maury-Brachet, pour ses conseils</li>
+							<li>Pierre Gilfriche, pour son aide et son enthousiasme</li>
+							<li>Tous les membres de CLAQH, pour leur implication dans notre projet transdisciplinaire</li>
+							<li>Catherine Semal, pour son intérêt pour le projet </li>
+						</ul>
+
+						<img class="thor" src="../IMG/thor.webp"/>
 					
 				</div>
 

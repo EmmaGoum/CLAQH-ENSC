@@ -99,7 +99,7 @@
 
 
 /*ACTEURS - ACTIONS*/
-.acteur, .action {
+.acteur, .action, .apport {
 	display: flex;
 	justify-content: space-around;
 }
