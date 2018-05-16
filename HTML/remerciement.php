@@ -23,9 +23,8 @@
 
 				<div class="contenu col-md-10 col-sm-10 col-xs-10">
 
-						<p>
-						Nous tenons à remercier :
-						</p>
+						<h1>Nous tenons à remercier :</h1>
+						
 						<ul>
 							<li>Nos tuteurs, pour leur accompagnement tout au long du projet </li>
 							<li>Régine Maury-Brachet, pour ses conseils</li>

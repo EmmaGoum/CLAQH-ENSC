@@ -40,16 +40,20 @@
 
 						<div class="apport">
 							<div>
-								<img class="img-action" src="../IMG/groupe.png"/> <!-- travail de groupe, organisation -->
-							</div>
+								<img class="img-apport" src="../IMG/groupe.png"/>
+								<p class="desc-Apport"><br/>Travail en groupe<br/>Organisation</p>
+							</div>						
 							<div>						
-								<img class="img-action" src="../IMG/action-site.png"/> <!-- maîtrise de différents logiciels,compétences en développement web, design -->
+								<img class="img-apport" src="../IMG/action-site.png"/>
+								<p class="desc-Apport"><br/>Maitrise de différents logiciels<br/>Compétences en développement web<br/>Design</p>
 							</div>
 							<div>
-								<img class="img-action" src="../IMG/communication.png"/> <!-- communication avec des clients -->
+								<img class="img-apport" src="../IMG/communication.png"/>
+								<p class="desc-Apport"><br/>Communication avec des clients</p>
 							</div>
 							<div>
-								<img class="img-action" src="../IMG/action-stat"/> <!-- statistiques -->
+								<img class="img-apport" src="../IMG/action-stat"/>
+								<p class="desc-Apport"><br/>statistiques</p>
 							</div>
 						</div>
 						<br/>

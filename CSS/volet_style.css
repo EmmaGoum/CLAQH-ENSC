@@ -99,9 +99,14 @@
 
 
 /*ACTEURS - ACTIONS*/
-.acteur, .action, .apport {
+.acteur, .action {
 	display: flex;
 	justify-content: space-around;
+}
+
+.apport {
+	display : flex;
+	justify-content: center;
 }
 
 .acteur > div {
@@ -123,11 +128,11 @@
 	justify-content: center;
 }
 
-.img-action {
+.img-action, .img-apport {
 	height: 150px;
 }
 
-.desc-acteur, .nom-acteur {
+.desc-acteur, .nom-acteur, .desc-Apport {
 	text-align: center;
 }
 
