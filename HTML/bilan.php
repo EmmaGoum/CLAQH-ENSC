@@ -22,7 +22,7 @@
 				</div>
 
 				<div class="contenu col-md-10 col-sm-10 col-xs-10">
-					<h1> Difficultés rencontrées </h1>
+					<h2> Difficultés rencontrées </h2>
 
 					<p>
 						Notre principale difficulté a été la rédaction du contenu du site web et des affiches sans y inclure des résultats. 
@@ -39,7 +39,8 @@
 
 					</p>
 
-					<h1> Apports </h1>
+
+					<h2> Apports </h2>
 
 					<div class="apport">
 						<div>
@@ -67,9 +68,9 @@
 							</p>
 						</div>
 					</div>
-					<br/>
+					
 
-					<h1> Plan Grenelle </h1>
+					<h2> Plan Grenelle </h2>
 
 					<p>
 						Le projet CLAQH répond aux attentes du dispositif “Plan Vert”, mentionné dans l’article 55 de la loi Grenelle 

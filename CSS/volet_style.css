@@ -104,11 +104,6 @@
 	justify-content: space-around;
 }
 
-/*.apport {
-	display : flex;
-	justify-content: center;
-}*/
-
 .acteur > div {
 	display: flex;
 	align-items: center;
@@ -122,13 +117,8 @@
 	height: 200px;
 }
 
-.action > div {
-	width: 25%;
-	display: flex;
-	justify-content: center;
-}
 
-.apport > div {
+.apport > div, .action > div {
 	display: flex;
 	align-items: center;
 	flex-direction: column;
@@ -140,7 +130,7 @@
 	height: 150px;
 }
 
-.desc-acteur, .nom-acteur, .desc-Apport {
+.desc-acteur, .nom-acteur, .desc-Apport, .desc-action {
 	text-align: center;
 }
 
@@ -154,7 +144,7 @@
 	padding-top: 20px;
 }
 
-#KM-site, #KM-logo, #AC-site, #AC-logo {
+#AC-site, #AC-logo {
 	width : 50px;
 }
 
@@ -162,10 +152,29 @@
 	width : 75px;
 }
 
-#AB-site {
+#AB-site, #KM-com {
 	width : 25px;
 }
 
 #EG-site, #EG-stat, #EG-affiche {
 	width : 33px;
 }
+
+#KM-site {
+	width : 40px;
+}
+
+#KM-logo {
+	width : 35px;
+}
+
+
+/*TABLEAU PLANNING*/
+.planning thead td {
+	font-size: 18px;
+}
+
+.planning {
+	width : 75%;
+}
+

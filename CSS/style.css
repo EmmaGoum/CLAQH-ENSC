@@ -167,8 +167,6 @@ a:active {
   padding : 10px;
   position: absolute;
   z-index: 1031;
-  /*top: 100%;
-  left: 0;*/
   bottom:100%;
   right:100%;
   width : 200px;

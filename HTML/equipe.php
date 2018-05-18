@@ -22,7 +22,7 @@
 				</div>
 
 				<div class="contenu col-md-10 col-sm-10 col-xs-10">
-					<h1> Qui sommes-nous ? </h1>
+					<h2> Qui sommes-nous ? </h2>
 
 					<div class="acteur">
 						<div>
@@ -41,7 +41,7 @@
 								Alice Cantagrel
 							</p>
 							<p class="desc-acteur">
-								Prépa des INP - Toulouse
+								Classe préparatoire des INP - Toulouse
 							</p>
 						</div>
 
@@ -67,12 +67,32 @@
 					</div>
 
 
-					<h1> Actions réalisées </h1>
+					<h2> Actions réalisées </h2>
 					<div class="action">
-						<div> <img class="img-action" src="../IMG/action-logo.png"/></div>
-						<div> <img class="img-action" src="../IMG/action-stat.png"/></div>
-						<div> <img class="img-action" src="../IMG/action-site.png"/></div>
-						<div> <img class="img-action" src="../IMG/action-affiche.png"/></div>
+						<div>
+							<img class="img-action" src="../IMG/action-logo.png"/>
+							<p class="desc-action">
+								Création d'un logo
+							</p>
+						</div>
+						<div> 
+							<img class="img-action" src="../IMG/action-stat.png"/>
+							<p class="desc-action">
+								Analyse statistiques
+							</p>
+						</div>
+						<div> 
+							<img class="img-action" src="../IMG/action-site.png"/>
+							<p class="desc-action">
+								Développement d'un site web
+							</p>
+						</div>
+						<div> 
+							<img class="img-action" src="../IMG/action-affiche.png"/>
+							<p class="desc-action">
+								Création d'une affiche informative
+							</p>
+						</div>
 					</div>
 
 				</div>

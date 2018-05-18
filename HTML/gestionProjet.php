@@ -22,14 +22,11 @@
 				</div>
 
 				<div class="contenu col-md-10 col-sm-10 col-xs-10">
-					<h1> Planning suivi </h1>
+					<h2> Planning suivi </h2>
 
 					<p>
-                        <table class="table table-bordered table-striped table-condensed">
-                            <caption>
-                                <strong>Planning transdisciplinaire CLAQH</strong>
-                            </caption>
-                            <thead>
+                        <table class="planning table table-bordered table-striped table-condensed">
+                            <thead align="center">
                             	<tr>
                                     <td><b>Activité</b></td>
                                     <td><b>Durée</b></td>
@@ -84,7 +81,7 @@
                     </p>
 
 
-                    <h1> Répartitions des rôles </h1>
+                    <h2> Répartitions des rôles </h2>
 
                     <div class="acteur">
 						<div>
@@ -116,16 +113,51 @@
 							<img class="img-acteur" src="../IMG/KM.jpg"/>
 							<div class="actionsReal">
 								<img id="KM-logo" src="../IMG/action-logo"/>
-								<img id="KM-site" src="../IMG/action-site"/>
+                                <img id="KM-site" src="../IMG/action-site"/>
+								<img id="KM-com" src="../IMG/action-com"/>
 							</div>
 						</div>
 					</div>
+
+
+                    <h2> Outils utilisés </h2>
+
+                    <p>
+                        Logo : Inkscape, Gimp
+                    </p>
+
+                    <p>
+                        Réalisation du site web :
+                        <ul>
+                            <li>
+                                Maquette : Axure
+                            </li>
+                            <li>
+                                Langages : HTML, CSS, JavaScript
+                            </li>
+                            <li>
+                                Logiciel de versions : GitHub, GitKraken
+                            </li>
+                        </ul>
+                    </p>
+
+                    <p>
+                        Statistiques : Microsoft Excel, Google Sheet
+                    </p>
+
+                    <p>
+                        Affiche : Canva
+                    </p>
+
+                    <p>
+                        Communication : Google Mail, Messenger, Discord 
+                    </p>
+
+                    <p>
+                        Gestion des documents : Google Drive
+                    </p>
+
 				</div>
-
-
-				<h1> Outils utilisés </h1>
-
-
 			</div>
 		</div>
 

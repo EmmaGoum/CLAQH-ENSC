@@ -24,28 +24,28 @@
 
 				<div class="contenu col-md-10 col-sm-10 col-xs-10">
 
-					<h1> Contexte </h1>
+					<h2> Contexte </h2>
 
-					<p class="texteVolet">
+					<p>
 						Le projet transdisciplinaire CLAQH de l’ENSC s’inscrit dans le projet CLAQH (Contamination des Lacs AQuitains et impacts Humains) mené sur 4 lacs aquitains (Hourtin-Carcans, Cazaux-Sanguinet, Lacanaux, Biscarosse-Parentis). Courant 2011, des quantités de mercure retrouvées dans les poissons du lac d’Hourtin-Carcans sont supérieures aux normes et aux recommandations sanitaires alimentaires de l’Union Européenne. Une étude est alors demandée sur les lacs aquitains. Suite à cette étude et ses résultats, le projet CLAQH est initié. 
 					</p>
 
-					<p class="texteVolet">
+					<p>
 						Il vise à étudier et comprendre les raisons de la présence de métaux traces, tels que le mercure au sein des écosystèmes lacustres du littoral aquitain.
 					</p>
 
 
 
-					<h1> Demande </h1>
-					<p class="texteVolet">
+					<h2> Demande </h2>
+					<p>
 						Notre participation au projet CLAQH s’inscrit dans sa partie “Facteurs Humains”. Elle regroupe l’étude du degré de perception, de connaissance et de représentation des usagers des lacs d"Aquitaine (pêcheurs, touristes, locaux, etc.) à travers des enquêtes de terrains afin de pouvoir mettre en place une mission de sensibilisation.
 					</p>
 
-					<p class="texteVolet">
+					<p>
 						Deux élèves ingénieurs de deuxième année de l’ENSC ont menés en mai-juin-juillet 2016 une enquête sur le terrain à l’aide d’un questionnaire et ont commencé les premières analyses des données.
 					</p>
 
-					<p class="texteVolet">
+					<p>
 						Nos missions étaient donc :
 						<ul>
 							<li>
@@ -61,7 +61,7 @@
 					</p>
 
 
-					<h1> Acteurs </h1>
+					<h2> Acteurs </h2>
 					<div class="acteur">
 						<div>
 							<img class="img-acteur" src="../IMG/VLN.png"/>
@@ -69,7 +69,7 @@
 								Véronique Lespinet-Najib
 							</p>
 							<p class="desc-acteur">
-								Membre de l’équipe <span class="aDefinir" onmouseover="definitionVisible(this);" onmouseleave="definitionCache(this)">CIH<span class="definition cache">Cognitique et Ingénierie Humaine</span></span> au sein du laboratoire <span class="aDefinir" onmouseover="definitionVisible(this);" onmouseleave="definitionCache(this)">IMS<span class="definition cache"> Intégration du Matériau au Système</span></span> du CNRS, notre tutrice
+								Membre de l’équipe <span class="aDefinir" onmouseover="definitionVisible(this);" onmouseleave="definitionCache(this)">CIH<span class="definition cache">Cognitique et Ingénierie Humaine</span></span> au sein du laboratoire <span class="aDefinir" onmouseover="definitionVisible(this);" onmouseleave="definitionCache(this)">IMS<span class="definition cache"> Intégration du Matériau au Système</span></span> du <span class="aDefinir" onmouseover="definitionVisible(this);" onmouseleave="definitionCache(this)">CNRS<span class="definition cache"> Centre National de la Recherche Scientifique</span></span>, notre tutrice
 							</p>
 						</div>
 
@@ -79,7 +79,7 @@
 								Jean-Marc André
 							</p>
 							<p class="desc-acteur">
-								Responsable de l’équipe <span class="aDefinir" onmouseover="definitionVisible(this);" onmouseleave="definitionCache(this)">CIH<span class="definition cache">Cognitique et Ingénierie Humaine</span></span> au sein du laboratoire <span class="aDefinir" onmouseover="definitionVisible(this);" onmouseleave="definitionCache(this)">IMS<span class="definition cache"> Intégration du Matériau au Système</span></span> du CNRS, notre tuteur
+								Responsable de l’équipe <span class="aDefinir" onmouseover="definitionVisible(this);" onmouseleave="definitionCache(this)">CIH<span class="definition cache">Cognitique et Ingénierie Humaine</span></span> au sein du laboratoire <span class="aDefinir" onmouseover="definitionVisible(this);" onmouseleave="definitionCache(this)">IMS<span class="definition cache"> Intégration du Matériau au Système</span></span> du <span class="aDefinir" onmouseover="definitionVisible(this);" onmouseleave="definitionCache(this)">CNRS<span class="definition cache"> Centre National de la Recherche Scientifique</span></span>, notre tuteur
 							</p>
 						</div>
 
@@ -89,7 +89,7 @@
 								Régine Maury-Brachet
 							</p>
 							<p class="desc-acteur">
-								Membre de l’équipe <span class="aDefinir" onmouseover="definitionVisible(this);" onmouseleave="definitionCache(this)">EA<span class="definition cache">Ecotoxicologie Aquatique</span></span> de l’<span class="aDefinir" onmouseover="definitionVisible(this);" onmouseleave="definitionCache(this)">UMR EPOC<span class="definition cache">Unité Mixte de Recherche Environnements et Paléoenvironnements Océaniques et Continentaux</span></span>, chef du projet CLAQH
+								Membre de l’équipe <span class="aDefinir" onmouseover="definitionVisible(this);" onmouseleave="definitionCache(this)">EA<span class="definition cache">Ecotoxicologie Aquatique</span></span> de l’<span class="aDefinir" onmouseover="definitionVisible(this);" onmouseleave="definitionCache(this)">UMR EPOC<span class="definition cache">Unité Mixte de Recherche Environnements et Paléoenvironnements Océaniques et Continentaux</span></span>, chef du projet <span class="aDefinir" onmouseover="definitionVisible(this);" onmouseleave="definitionCache(this)">CLAQH<span class="definition cache">Contamination des Lacs AQuitains et impacts Humains</span></span>
 							</p>
 						</div>
 					</div>

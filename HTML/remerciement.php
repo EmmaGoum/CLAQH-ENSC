@@ -26,7 +26,7 @@
 						<h1>Nous tenons à remercier :</h1>
 						
 						<ul>
-							<li>Nos tuteurs, pour leur accompagnement tout au long du projet </li>
+							<li>Nos tuteurs, Véronique Lespinet-Najib et Jean-Marc André pour leur accompagnement tout au long du projet </li>
 							<li>Régine Maury-Brachet, pour ses conseils</li>
 							<li>Pierre Gilfriche, pour son aide et son enthousiasme</li>
 							<li>Tous les membres de CLAQH, pour leur implication dans notre projet transdisciplinaire</li>
