@@ -62,7 +62,7 @@
 							</p>
 						</div>
 						<div>
-							<img class="img-apport" src="../IMG/action-stat"/>
+							<img class="img-apport" src="../IMG/action-stat.png"/>
 							<p class="desc-Apport">
 								Statistiques
 							</p>
@@ -72,18 +72,21 @@
 
 					<h2> Plan Grenelle </h2>
 
-					<p>
-						Le projet CLAQH répond aux attentes du dispositif “Plan Vert”, mentionné dans l’article 55 de la loi Grenelle 
-						(loi du 3 août 2009), qui stipule que “l'éducation au développement durable est portée par toutes les disciplines 
-						et intégrée au fonctionnement quotidien des établissements scolaires. Elle contribue, à travers ses dimensions éthiques 
-						et sociales, à la formation citoyenne.”
-					</p>
-					<p>
-						Notre projet, de part son étude des écosystèmes lacustres aquitains, a une dimension environnementale, et de part son 
-						étude des populations, il s’inscrit aussi dans le domaine de la santé.
-						De plus, il participe à la sensibilisation de la population vis-à-vis de l’environnement de part les affiches de 
-						sensibilisation réalisées.
-					</p>					
+					<div class="grenelle">
+						<img class="img-grenelle" src="../IMG/logo-grenelle.jpg"/>
+						<p>
+							Le projet CLAQH répond aux attentes du dispositif “Plan Vert”, mentionné dans l’article 55 de la loi Grenelle 
+							(loi du 3 août 2009), qui stipule que “l'éducation au développement durable est portée par toutes les disciplines 
+							et intégrée au fonctionnement quotidien des établissements scolaires. Elle contribue, à travers ses dimensions éthiques 
+							et sociales, à la formation citoyenne.”
+						</p>
+						<p>
+							Notre projet, de part son étude des écosystèmes lacustres aquitains, a une dimension environnementale, et de part son 
+							étude des populations, il s’inscrit aussi dans le domaine de la santé.
+							De plus, il participe à la sensibilisation de la population vis-à-vis de l’environnement de part les affiches de 
+							sensibilisation réalisées.
+						</p>
+					</div>					
 				</div>
 
 			</div>

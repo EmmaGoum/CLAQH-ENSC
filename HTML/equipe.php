@@ -26,7 +26,7 @@
 
 					<div class="acteur">
 						<div>
-							<img class="img-acteur" src="../IMG/"/>
+							<img class="img-acteur" src="../IMG/AB.jpg"/>
 							<p class="nom-acteur">
 								Antoine Bouquet
 							</p>
@@ -36,7 +36,7 @@
 						</div>
 
 						<div>
-							<img class="img-acteur" src="../IMG/"/>
+							<img class="img-acteur" src="../IMG/AC.jpg"/>
 							<p class="nom-acteur">
 								Alice Cantagrel
 							</p>

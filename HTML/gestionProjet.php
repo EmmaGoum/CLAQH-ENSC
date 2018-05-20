@@ -85,36 +85,36 @@
 
                     <div class="acteur">
 						<div>
-							<img class="img-acteur" src="../IMG/"/>
+							<img class="img-acteur" src="../IMG/AB.jpg"/>
 							<div class="actionsReal">
-								<img id="AB-stat" src="../IMG/action-stat"/>
-								<img id="AB-site" src="../IMG/action-site"/>
+								<img id="AB-stat" src="../IMG/action-stat.png"/>
+								<img id="AB-site" src="../IMG/action-site.png"/>
 							</div>
 						</div>
 
 						<div>
-							<img class="img-acteur" src="../IMG/"/>
+							<img class="img-acteur" src="../IMG/AC.jpg"/>
 							<div class="actionsReal">
-								<img id="AC-logo" src="../IMG/action-logo"/>
-								<img id="AC-site" src="../IMG/action-site"/>
+								<img id="AC-logo" src="../IMG/action-logo.png"/>
+								<img id="AC-site" src="../IMG/action-site.png"/>
 							</div>
 						</div>
 
 						<div>
 							<img class="img-acteur" src="../IMG/EG.jpg"/>
 							<div class="actionsReal">
-								<img id="EG-site" src="../IMG/action-site"/>
-								<img id="EG-stat" src="../IMG/action-stat"/>
-								<img id="EG-affiche" src="../IMG/action-affiche"/>
+								<img id="EG-site" src="../IMG/action-site.png"/>
+								<img id="EG-stat" src="../IMG/action-stat.png"/>
+								<img id="EG-affiche" src="../IMG/action-affiche.png"/>
 							</div>
 						</div>
 
 						<div>
 							<img class="img-acteur" src="../IMG/KM.jpg"/>
 							<div class="actionsReal">
-								<img id="KM-logo" src="../IMG/action-logo"/>
-                                <img id="KM-site" src="../IMG/action-site"/>
-								<img id="KM-com" src="../IMG/action-com"/>
+								<img id="KM-logo" src="../IMG/action-logo.png"/>
+                                <img id="KM-site" src="../IMG/action-site.png"/>
+								<img id="KM-com" src="../IMG/action-com.png"/>
 							</div>
 						</div>
 					</div>
