@@ -144,28 +144,12 @@
 	padding-top: 20px;
 }
 
-#AC-site, #AC-logo {
+.action-AB, .action-AC {
 	width : 50px;
 }
 
-#AB-stat {
-	width : 75px;
-}
-
-#AB-site, #KM-com {
-	width : 25px;
-}
-
-#EG-site, #EG-stat, #EG-affiche {
-	width : 33px;
-}
-
-#KM-site {
-	width : 40px;
-}
-
-#KM-logo {
-	width : 35px;
+.action-EG, .action-KM {
+	width : 34px;
 }
 
 

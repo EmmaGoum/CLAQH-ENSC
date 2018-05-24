@@ -32,8 +32,6 @@
 							<li>Tous les membres de CLAQH, pour leur implication dans notre projet transdisciplinaire</li>
 							<li>Catherine Semal, pour son intérêt pour le projet </li>
 						</ul>
-
-						<img class="thor" src="../IMG/thor.webp"/>
 					
 				</div>
 

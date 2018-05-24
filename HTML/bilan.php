@@ -73,7 +73,7 @@
 					<h2> Plan Grenelle </h2>
 
 					<div class="grenelle">
-						<img class="img-grenelle" src="../IMG/logo-grenelle.jpg"/>
+						<img class="img-grenelle" src="../IMG/logo-grenelle.jpeg"/>
 						<p>
 							Le projet CLAQH répond aux attentes du dispositif “Plan Vert”, mentionné dans l’article 55 de la loi Grenelle 
 							(loi du 3 août 2009), qui stipule que “l'éducation au développement durable est portée par toutes les disciplines 
