@@ -78,7 +78,7 @@
 						<div> 
 							<img class="img-action" src="../IMG/action-stat.png"/>
 							<p class="desc-action">
-								Analyse statistiques
+								Analyses statistiques
 							</p>
 						</div>
 						<div> 

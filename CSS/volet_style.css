@@ -98,6 +98,40 @@
 }
 
 
+/*PROJET*/
+.modes{
+	font-size: 10px;
+	text-align: right;
+}
+
+.Lien1 {
+	display: block;
+}
+
+.Lien2 {
+	display: none;
+}
+
+.modeSoutenance{
+	display: none;
+}
+
+.modeDetaille{
+	display: block;
+}
+
+.contexte {
+	display: flex;
+	align-items: center;
+}
+
+.img-contexte{	
+	width: 300px;
+	height: auto;
+}
+
+
+
 /*ACTEURS - ACTIONS - APPORTS*/
 .acteur, .action, .apport {
 	display: flex;
