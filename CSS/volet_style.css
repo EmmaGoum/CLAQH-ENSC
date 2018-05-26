@@ -104,6 +104,10 @@
 	text-align: right;
 }
 
+.btn{
+	float: right;
+}
+
 .Lien1 {
 	display: block;
 }

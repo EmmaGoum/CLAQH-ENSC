@@ -25,10 +25,10 @@
 				<div class="contenu col-md-10 col-sm-10 col-xs-10">
 
 					
-					<p class="modes">
-						<a class="Lien1" href=# onclick="ChangeMode()">Mode soutenance</a>
-						<a class="Lien2" href=# onclick="ChangeMode()">Détails</a>
-					<p>
+				<p class="modes">
+					<input type="button" class="Lien1 btn btn-default" href=# onclick="ChangeMode()" value="Mode soutenance">
+					<input type="button" class="Lien2 btn btn-default" href=# onclick="ChangeMode()" value="Détails">
+				<p>
 					
 					<div class ="modeDetaille">
 						<h2> Contexte </h2>
@@ -116,8 +116,6 @@
 						</ul>
 
 					</div>
-
-
 
 
 					<h2> Acteurs </h2>
